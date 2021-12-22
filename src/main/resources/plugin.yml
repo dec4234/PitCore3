@@ -1,0 +1,6 @@
+name: PitCore3
+version: ${project.version}
+main: net.dec4234.pitcore3.src.PitCoreMain
+api-version: 1.16
+load: POSTWORLD
+authors: [ dec4234 ]
